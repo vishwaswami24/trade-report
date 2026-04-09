@@ -1,0 +1,1 @@
+"""Trade opportunity analyzer package."""
