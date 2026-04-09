@@ -8,6 +8,8 @@
 
 FastAPI + Next.js project for analyzing Indian market sectors and returning a structured markdown trade opportunity report. The backend collects live market context, runs Gemini-powered analysis, and exposes a single secured API endpoint. The frontend provides a polished dashboard to run analysis, preview the report, and download it as `.md`.
 
+<img width="1887" height="922" alt="Screenshot 2026-04-09 185203" src="https://github.com/user-attachments/assets/978a7390-1c74-4aa6-818f-3b7104555ad0" />
+
 ## Overview
 
 - Backend: FastAPI service with session management, input validation, rate limiting, and Gemini integration
