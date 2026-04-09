@@ -190,10 +190,6 @@ Detailed write-up: [`SECURITY_FEATURES.md`](./SECURITY_FEATURES.md)
 pytest
 ```
 
-## Interview Talking Points
+## License
 
-- Clean separation between API, collection, analysis, and presentation layers
-- Single-endpoint backend that still includes auth, session tracking, and rate limiting
-- Graceful fallback mode when external AI calls fail
-- Secure frontend proxy pattern that avoids exposing backend credentials to the browser
-- Markdown-first response design aligned with the assignment requirement
+This project is licensed under the MIT License. See [`LICENSE`](./LICENSE).
